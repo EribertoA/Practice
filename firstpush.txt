@@ -1,3 +1,5 @@
 First practice code
 
 new line
+
+Example 2
